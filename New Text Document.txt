@@ -6,3 +6,5 @@ New change
 Change to be commited by GUI
 
 multiple files commit
+
+change 2
